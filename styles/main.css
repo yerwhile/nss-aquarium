@@ -4,5 +4,28 @@
 
 #tips {
     float: right;
+    border: dotted blue 1px;
+    padding: 2em;
 }
 
+#locations {
+    border: dotted blue 1px;
+    padding: 2em;
+    margin: 2em;
+}
+
+#quotes {
+    border: dotted blue 1px;
+    padding: 2em;
+    margin: 2em;
+}
+
+#fishes {
+    border: dotted blue 1px;
+    padding: 2em;
+    margin: 2em;
+}
+
+.fish-card {
+    margin: 2em;
+}
